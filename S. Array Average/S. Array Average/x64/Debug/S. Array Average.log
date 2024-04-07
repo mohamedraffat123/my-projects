@@ -1,0 +1,3 @@
+﻿  S. Array Average.cpp
+D:\visual studio\S. Array Average\S. Array Average\S. Array Average.cpp(20,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  S. Array Average.vcxproj -> D:\visual studio\S. Array Average\x64\Debug\S. Array Average.exe
