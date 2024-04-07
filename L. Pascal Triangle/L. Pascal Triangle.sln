@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L. Pascal Triangle", "L. Pascal Triangle\L. Pascal Triangle.vcxproj", "{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Debug|x64.ActiveCfg = Debug|x64
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Debug|x64.Build.0 = Debug|x64
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Debug|x86.ActiveCfg = Debug|Win32
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Debug|x86.Build.0 = Debug|Win32
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Release|x64.ActiveCfg = Release|x64
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Release|x64.Build.0 = Release|x64
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Release|x86.ActiveCfg = Release|Win32
+		{47E2FA57-66B8-4EE3-B1E3-6CD68A79710C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280A5A58-670C-4A24-9A7F-C74098648EBE}
+	EndGlobalSection
+EndGlobal
