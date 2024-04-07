@@ -1,0 +1,5 @@
+﻿  K. Combination and Permutation.cpp
+D:\visual studio\K. Combination and Permutation\K. Combination and Permutation\K. Combination and Permutation.cpp(11,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\visual studio\K. Combination and Permutation\K. Combination and Permutation\K. Combination and Permutation.cpp(14,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\visual studio\K. Combination and Permutation\K. Combination and Permutation\K. Combination and Permutation.cpp(17,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  K. Combination and Permutation.vcxproj -> D:\visual studio\K. Combination and Permutation\x64\Debug\K. Combination and Permutation.exe

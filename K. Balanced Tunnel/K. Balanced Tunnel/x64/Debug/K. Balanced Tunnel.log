@@ -1,0 +1,12 @@
+﻿  K. Balanced Tunnel.cpp
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(14,21): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(14,21): warning C4244:         with
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(14,21): warning C4244:         [
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(14,21): warning C4244:             _Ty=int
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(14,21): warning C4244:         ]
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(18,21): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(18,21): warning C4244:         with
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(18,21): warning C4244:         [
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(18,21): warning C4244:             _Ty=int
+D:\visual studio\K. Balanced Tunnel\K. Balanced Tunnel\K. Balanced Tunnel.cpp(18,21): warning C4244:         ]
+LINK : fatal error LNK1168: cannot open D:\visual studio\K. Balanced Tunnel\x64\Debug\K. Balanced Tunnel.exe for writing
