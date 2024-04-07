@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+D:\visual studio\ConsoleApplication11\ConsoleApplication11.cpp(14,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\visual studio\ConsoleApplication11\ConsoleApplication11.cpp(10,25): warning C4101: 'q': unreferenced local variable
+  ConsoleApplication11.vcxproj -> D:\visual studio\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
