@@ -1,0 +1,3 @@
+﻿  ConsoleApplication14.cpp
+D:\visual studio\ConsoleApplication14\ConsoleApplication14.cpp(15,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication14.vcxproj -> D:\visual studio\ConsoleApplication14\x64\Debug\ConsoleApplication14.exe
