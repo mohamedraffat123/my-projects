@@ -1,0 +1,3 @@
+﻿  H. Sorting.cpp
+D:\visual studio\H. Sorting\H. Sorting\H. Sorting.cpp(25,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  H. Sorting.vcxproj -> D:\visual studio\H. Sorting\x64\Debug\H. Sorting.exe
