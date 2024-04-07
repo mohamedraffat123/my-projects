@@ -1,0 +1,3 @@
+﻿  F. Print Even Indices.cpp
+D:\visual studio\F. Print Even Indices\F. Print Even Indices\F. Print Even Indices.cpp(29): warning C4717: 'rec2': recursive on all control paths, function will cause runtime stack overflow
+  F. Print Even Indices.vcxproj -> D:\visual studio\F. Print Even Indices\x64\Debug\F. Print Even Indices.exe
