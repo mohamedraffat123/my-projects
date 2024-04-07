@@ -1,0 +1,14 @@
+﻿  Promo.cpp
+D:\visual studio\Promo\Promo\Promo.cpp(23,22): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+D:\visual studio\Promo\Promo\Promo.cpp(23,22): warning C4244:         with
+D:\visual studio\Promo\Promo\Promo.cpp(23,22): warning C4244:         [
+D:\visual studio\Promo\Promo\Promo.cpp(23,22): warning C4244:             _Ty=__int64
+D:\visual studio\Promo\Promo\Promo.cpp(23,22): warning C4244:         ]
+D:\visual studio\Promo\Promo\Promo.cpp(26,20): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+D:\visual studio\Promo\Promo\Promo.cpp(26,20): warning C4244:         with
+D:\visual studio\Promo\Promo\Promo.cpp(26,20): warning C4244:         [
+D:\visual studio\Promo\Promo\Promo.cpp(26,20): warning C4244:             _Ty=__int64
+D:\visual studio\Promo\Promo\Promo.cpp(26,20): warning C4244:         ]
+D:\visual studio\Promo\Promo\Promo.cpp(45,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\visual studio\Promo\Promo\Promo.cpp(46,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Promo.vcxproj -> D:\visual studio\Promo\x64\Debug\Promo.exe
