@@ -1,0 +1,15 @@
+﻿'G. Construct the Sum.exe' (Win32): Loaded 'D:\visual studio\G. Construct the Sum\x64\Debug\G. Construct the Sum.exe'. Symbols loaded.
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x49d0 has exited with code 0 (0x0).
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'G. Construct the Sum.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x1830 has exited with code 0 (0x0).
+The thread 0x4d1c has exited with code 0 (0x0).
+The program '[24524] G. Construct the Sum.exe' has exited with code 0 (0x0).

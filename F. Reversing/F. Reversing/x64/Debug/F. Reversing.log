@@ -1,0 +1,3 @@
+﻿  F. Reversing.cpp
+D:\visual studio\F. Reversing\F. Reversing\F. Reversing.cpp(14,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  F. Reversing.vcxproj -> D:\visual studio\F. Reversing\x64\Debug\F. Reversing.exe
