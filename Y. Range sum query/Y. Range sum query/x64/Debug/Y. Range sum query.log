@@ -1,0 +1,3 @@
+﻿  Y. Range sum query.cpp
+D:\visual studio\Y. Range sum query\Y. Range sum query\Y. Range sum query.cpp(26,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Y. Range sum query.vcxproj -> D:\visual studio\Y. Range sum query\x64\Debug\Y. Range sum query.exe
