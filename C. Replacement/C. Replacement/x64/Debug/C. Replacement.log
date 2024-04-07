@@ -1,0 +1,3 @@
+﻿  C. Replacement.cpp
+D:\visual studio\C. Replacement\C. Replacement\C. Replacement.cpp(17,20): warning C4553: '==': result of expression not used; did you intend '='?
+  C. Replacement.vcxproj -> D:\visual studio\C. Replacement\x64\Debug\C. Replacement.exe

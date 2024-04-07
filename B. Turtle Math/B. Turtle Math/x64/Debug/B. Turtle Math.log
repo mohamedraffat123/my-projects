@@ -1,0 +1,8 @@
+﻿  B. Turtle Math.cpp
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(20,22): warning C4553: '==': result of expression not used; did you intend '='?
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(23,33): warning C4244: '=': conversion from 'll' to '_Ty', possible loss of data
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(23,33): warning C4244:         with
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(23,33): warning C4244:         [
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(23,33): warning C4244:             _Ty=int
+D:\visual studio\B. Turtle Math\B. Turtle Math\B. Turtle Math.cpp(23,33): warning C4244:         ]
+  B. Turtle Math.vcxproj -> D:\visual studio\B. Turtle Math\x64\Debug\B. Turtle Math.exe
