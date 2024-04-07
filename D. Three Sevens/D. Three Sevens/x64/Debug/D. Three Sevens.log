@@ -1,0 +1,20 @@
+﻿  D. Three Sevens.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244: 'initializing': conversion from 'll' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+  (compiling source file 'D.%20Three%20Sevens.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54):
+  the template instantiation context (the oldest one first) is
+  	D:\visual studio\D. Three Sevens\D. Three Sevens\D. Three Sevens.cpp(23,14):
+  	see reference to function template instantiation 'std::pair<const int,int>::pair<int,ll&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=ll &
+          ]
+  		D:\visual studio\D. Three Sevens\D. Three Sevens\D. Three Sevens.cpp(23,13):
+  		see the first reference to 'std::pair<const int,int>::pair' in 'main'
+  
+  D. Three Sevens.vcxproj -> D:\visual studio\D. Three Sevens\x64\Debug\D. Three Sevens.exe
