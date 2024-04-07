@@ -1,0 +1,3 @@
+﻿  Q. Digits.cpp
+D:\visual studio\Q. Digits\Q. Digits\Q. Digits.cpp(14,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Q. Digits.vcxproj -> D:\visual studio\Q. Digits\x64\Debug\Q. Digits.exe
