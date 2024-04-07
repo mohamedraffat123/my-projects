@@ -1,0 +1,74 @@
+﻿  E1. Permutation Minimization by Deque.cpp
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(16,20): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(16,20): warning C4244:         with
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(16,20): warning C4244:         [
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(16,20): warning C4244:             _Ty=int
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(16,20): warning C4244:         ]
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(20,21): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(20,21): warning C4244:         with
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(20,21): warning C4244:         [
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(20,21): warning C4244:             _Ty=int
+D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(20,21): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56): error C2794: 'value_type': is not a member of any direct or indirect base class of 'std::iterator_traits<_InIt>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56): error C2794:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56): error C2794:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56): error C2794:             _InIt=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56): error C2794:         ]
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1053,56):
+  the template instantiation context (the oldest one first) is
+  	D:\visual studio\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque\E1. Permutation Minimization by Deque.cpp(23,17):
+  	see reference to function template instantiation '_InIt std::find<_Ty,_Ty>(_InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=int,
+              _Ty=int
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5837,36):
+  	see reference to function template instantiation '_InIt std::_Find_unchecked<_InIt,_Ty>(_InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=int,
+              _Ty=int
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5707,49):
+  	see reference to alias template instantiation 'std::_Iter_value_t<_InIt>' being compiled
+          with
+          [
+              _InIt=int
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5707,49): error C2938: 'std::_Iter_value_t' : Failed to specialize alias template
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5790,19): error C2976: 'std::_Vector_alg_in_find_is_safe': too few template arguments
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5708,28):
+  see declaration of 'std::_Vector_alg_in_find_is_safe'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5790,58): error C2059: syntax error: ')'
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5790,60): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5800,37): error C2672: '__std_find_trivial': no matching overloaded function found
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(115,6):
+  could be '_Ty *__std_find_trivial(_Ty *,_Ty *,const _TVal) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5800,37):
+  	'_Ty *__std_find_trivial(_Ty *,_Ty *,const _TVal) noexcept': could not deduce template argument for '_Ty *' from 'const _Iter'
+          with
+          [
+              _Iter=int
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5800,24): error C2737: '_Result': const object must be initialized
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5804,34): error C3536: '_Result': cannot be used before it is initialized
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5823,13): error C2100: illegal indirection
+  (compiling source file 'E1.%20Permutation%20Minimization%20by%20Deque.cpp')
+  
