@@ -1,0 +1,12 @@
+﻿  C. Sum of Range.cpp
+D:\visual studio\C. Sum of Range\C. Sum of Range\C. Sum of Range.cpp(10,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\visual studio\C. Sum of Range\C. Sum of Range\C. Sum of Range.cpp(11,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  C. Sum of Range.vcxproj -> D:\visual studio\C. Sum of Range\x64\Debug\C. Sum of Range.exe
