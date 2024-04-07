@@ -1,0 +1,3 @@
+﻿  H. GCD.cpp
+D:\visual studio\H. GCD\H. GCD\H. GCD.cpp(11,11): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+  H. GCD.vcxproj -> D:\visual studio\H. GCD\x64\Debug\H. GCD.exe
