@@ -1,0 +1,3 @@
+﻿  A. Meximization4.cpp
+D:\visual studio\A. Meximization4\A. Meximization4\A. Meximization4.cpp(20,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  A. Meximization4.vcxproj -> D:\visual studio\A. Meximization4\x64\Debug\A. Meximization4.exe

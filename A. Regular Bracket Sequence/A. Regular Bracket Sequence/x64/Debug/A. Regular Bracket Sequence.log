@@ -1,0 +1,4 @@
+﻿  A. Regular Bracket Sequence.cpp
+D:\visual studio\A. Regular Bracket Sequence\A. Regular Bracket Sequence\A. Regular Bracket Sequence.cpp(14,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\visual studio\A. Regular Bracket Sequence\A. Regular Bracket Sequence\A. Regular Bracket Sequence.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  A. Regular Bracket Sequence.vcxproj -> D:\visual studio\A. Regular Bracket Sequence\x64\Debug\A. Regular Bracket Sequence.exe
