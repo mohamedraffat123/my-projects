@@ -1,0 +1,15 @@
+﻿'searching.exe' (Win32): Loaded 'D:\visual studio\searching\x64\Debug\searching.exe'. Symbols loaded.
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+The thread 0x5774 has exited with code 0 (0x0).
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'searching.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x5be4 has exited with code 0 (0x0).
+The thread 0x1808 has exited with code 0 (0x0).
+The program '[23812] searching.exe' has exited with code 0 (0x0).
