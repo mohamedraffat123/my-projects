@@ -1,0 +1,15 @@
+﻿'A. Summation.exe' (Win32): Loaded 'D:\visual studio\A. Summation\x64\Debug\A. Summation.exe'. Symbols loaded.
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+The thread 0x2068 has exited with code 0 (0x0).
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'A. Summation.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0xcec has exited with code 0 (0x0).
+The thread 0x3770 has exited with code 0 (0x0).
+The program '[23492] A. Summation.exe' has exited with code 0 (0x0).
