@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "F. Lecture Sleep", "F. Lecture Sleep\F. Lecture Sleep.vcxproj", "{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Debug|x64.ActiveCfg = Debug|x64
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Debug|x64.Build.0 = Debug|x64
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Debug|x86.Build.0 = Debug|Win32
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Release|x64.ActiveCfg = Release|x64
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Release|x64.Build.0 = Release|x64
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Release|x86.ActiveCfg = Release|Win32
+		{1CAA4A83-A26E-4234-BE2C-4FCA2B0E853C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B587D1D7-2A30-4179-BAE7-A558025750E5}
+	EndGlobalSection
+EndGlobal
